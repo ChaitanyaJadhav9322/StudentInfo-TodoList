@@ -1,0 +1,172 @@
+.container{
+    border-radius:8px;
+color:#0f1111;
+font-size:14px;
+line-height:20px;
+width:300px;
+ margin:20px 20px 30px 300px;;
+border: 0.2px solid grey;
+height:500px;
+background-color:white;
+}
+
+#ch{
+    color:#0f1111;
+font-family:Amazon Ember;
+font-size:28px;
+line-height:36px;
+ 
+padding:0px 0px 4px;
+margin-left:50px;
+margin-right:50px;
+margin-top:20px;
+margin-bottom:20px;
+}
+
+.main-div{
+border-radius:8px;
+color:#0f1111;
+font-size:14px;
+line-height:20px;
+padding:20px 20px;
+border: 0.2px solid grey;
+ width:900px;
+}
+
+label{
+    color:#0f1111;
+font-family:Amazon Ember;
+font-size:14px;
+font-weight:700;
+line-height:20px;
+padding:0px 0px 2px 2px;
+ 
+}
+
+#input1{
+background-color:#fff;
+border-color:#888c8c;
+border-radius:4px;
+border-style:solid;
+border-width:1px;
+box-shadow:#0f111126 0px 1px 2px 0px;
+color:#0f1111;
+display:inline-block;
+font-family:Amazon Ember;
+font-size:14px;
+padding:3px 7px;
+}
+
+button{
+
+    background-color:#f7ca00;
+    border-color:#f7ca00;
+    border-radius:100px;
+    border-style:solid;
+    border-width:1px;
+    color:#0f1111;
+    display:inline-block;
+    font-size:14px;
+    line-height:20px;
+    text-align:center;
+    width:250px;
+}
+.center-class{
+    background-color: yellow;
+}
+
+img{
+color:#0f1111;
+font-size:14px;
+line-height:20px;
+text-align:center;
+height:100px;
+}
+
+ p{
+color:#0f1111;
+font-size:12px;
+line-height:16px;
+margin:18px 18px 18px 18px;
+width:250px;
+ }
+
+ .me{
+    color:#c7511f;
+display:inline;
+font-size:14px;
+line-height:20px;
+ }
+
+ .terms{
+            background-color: #dfdbdb;
+            color:rgb(14, 13, 13);
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: '250px';
+            margin-top: 10px;
+            border:1px solid #ddd;
+             
+ }
+
+ #conditions
+ {
+    color:rgb(5, 5, 5);
+ }
+
+ .buy
+ {
+    color:#0f1111;
+display:inline;
+font-size:14px;
+font-weight:700;
+line-height:20px;
+ }
+
+ .video-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;  
+}
+
+
+
+.studentList
+{
+     background-color: white;
+      
+     width:900px;
+     height:100px;
+     color:#212529;
+    line-height:24px;
+    padding:32px;
+    text-align:center;
+    border-radius: 2%;
+    box-shadow:5px 6px 7px 3px grey;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    gap:50px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f4f4f4;
+  }
+  
+ 
